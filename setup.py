@@ -19,7 +19,7 @@ test_requirements = [
 ]
 
 setup(
-    name='tomato-discussion',
+    name='tomato.discussion',
     version='0.1.0',
     description="tomato discussion.",
     long_description=readme,
